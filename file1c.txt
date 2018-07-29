@@ -1,0 +1,5 @@
+class cars{int x=5; name=new char[5]; 
+car(char name[]) {if((x<=5)) {t=6;} 
+/*xfgjfh*/
+int engine(int k) {k=7; while((k<8)) {k=k+1;}}
+}

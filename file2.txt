@@ -1,0 +1,2 @@
+class cars{int x=5; name=new char[5]; 
+car(char name[]) {if((x<=5)) {t=6;}} 

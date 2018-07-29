@@ -1,0 +1,5 @@
+#include 
+
+/*xfgjfh*/
+int engine(int k) {k=7; while((k<8)) {k=k+1;}}
+}
